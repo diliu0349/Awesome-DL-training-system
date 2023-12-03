@@ -18,6 +18,14 @@
 [NSDI22][HKUST] [MLaaS in the Wild: Workload Analysis and Scheduling in Large-Scale Heterogeneous GPU Clusters](https://www.usenix.org/conference/nsdi22/presentation/weng)  
 [NSDI'23][UWM] [Shockwave: Fair and Efficient Cluster Scheduling for Dynamic Adaptation in Machine Learning](https://www.usenix.org/conference/nsdi23/presentation/zheng)  
 [SIGCOMM'22][PKU] [Multi-resource interleaving for deep learning training](https://dl.acm.org/doi/10.1145/3544216.3544224)  
+[ATC'19][MSR] [Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads](https://www.usenix.org/conference/atc19/presentation/jeon)  
+[ATC'20][UT] [Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training](https://www.usenix.org/conference/atc20/presentation/zhu-hongyu)  
+[ATC'20][UC] [ALERT: Accurate Learning for Energy and Timeliness](https://www.usenix.org/conference/atc20/presentation/wan)  
+[ATC'20][UTD] [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/conference/atc20/presentation/bateni)  
+[ATC'22][SJTU] [PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training](https://www.usenix.org/conference/atc22/presentation/zhang-wei)  
+[ATC'22][XDU] [Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training](https://www.usenix.org/conference/atc22/presentation/he)  
+[ATC'22][ETH] [Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/conference/atc22/presentation/graur)  
+[ATC'23][CityU] [Accelerating Distributed MoE Training and Inference with Lina](https://www.usenix.org/conference/atc23/presentation/li-jiamin)  
 
 
 [ASPLOS'23][PKU] [ElasticFlow: An Elastic Serverless Training Platform for Distributed Deep Learning](https://dl.acm.org/doi/abs/10.1145/3575693.3575721)  
@@ -50,6 +58,9 @@
 [NSDI'23][KAIST] [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/conference/nsdi23/presentation/hwang)  
 [SIGCOMM'23][THU] [Janus: A Unified Distributed Training Framework for Sparse Mixture-of-Experts Models](https://dl.acm.org/doi/10.1145/3603269.3604869)  
 [SIGCOMM'23][Google] [Lightwave Fabrics: At-Scale Optical Circuit Switching for Datacenter and Machine Learning Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)  
+[ATC'17][CMU] [Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters](https://www.usenix.org/conference/atc17/technical-sessions/presentation/zhang)  
+[ATC'18][CMU] [Litz: Elastic Framework for High-Performance Distributed Machine Learning](https://www.usenix.org/conference/atc18/presentation/qiao)  
+[ATC'22][KAIST] [CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics](https://www.usenix.org/conference/atc22/presentation/hwang)  
 
 
 #### Fault Tolerance
@@ -66,6 +77,8 @@
 [SOSP'19][MSR] [PipeDream: generalized pipeline parallelism for DNN training](https://dl.acm.org/doi/10.1145/3341301.3359646)  
 [OSDI'20][JHU] [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/conference/osdi20/presentation/bai)  
 [NSDI'23][UCLA] [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs](https://www.usenix.org/conference/nsdi23/presentation/thorpe)  
+[ATC'20][UNIST] [HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism](https://www.usenix.org/conference/atc20/presentation/park)  
+[ATC'21][IIT] [Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism](https://www.usenix.org/conference/atc21/presentation/eliad)  
 
 
 
@@ -75,8 +88,10 @@
 
 
 #### Resource Sharing
-[OSDI'20][MSRA] [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu) 
+[OSDI'20][MSRA] [HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu)  
 [NSDI'23][PKU] [Transparent GPU Sharing in Container Clouds for Deep Learning Workloads](https://www.usenix.org/conference/nsdi23/presentation/wu)  
+[ATC'21][UNIST] [Zico: Efficient GPU Memory Sharing for Concurrent DNN Training](https://www.usenix.org/conference/atc21/presentation/lim)  
+[ATC'23][HKUST] [Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent](https://www.usenix.org/conference/atc23/presentation/weng)  
 
 
 #### Tensor Programs
@@ -116,4 +131,21 @@
 
 #### Energy Consumption
 [NSDI'23][UMich] [Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training](https://www.usenix.org/conference/nsdi23/presentation/you)  
+[ATC'23][KAIST] [EnvPipe: Performance-preserving DNN Training Framework for Saving Energy](https://www.usenix.org/conference/atc23/presentation/choi)  
 
+
+#### Learning-Augmented 
+[ATC'19][USTC] [Accelerating Rule-matching Systems with Learned Rankers](https://www.usenix.org/conference/atc19/presentation/li-zhao)  
+[ATC'20][MSR] [AutoSys: The Design and Operation of Learning-Augmented Systems](https://www.usenix.org/conference/atc20/presentation/liang-mike)  
+[ATC'22][NTU] [Primo: Practical Learning-Augmented Systems with Interpretable Models](https://www.usenix.org/conference/atc22/presentation/hu)  
+
+
+#### don't sure
+[ATC'21][SNU] [Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training](https://www.usenix.org/conference/atc21/presentation/lee)  
+[ATC'21][UCM] [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://www.usenix.org/conference/atc21/presentation/ren-jie)  
+[ATC'22][UCSB] [Faith: An Efficient Framework for Transformer Verification on GPUs](https://www.usenix.org/conference/atc22/presentation/feng)  
+
+
+#### MoE
+[ATC'23][THU] [SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization](https://www.usenix.org/conference/atc23/presentation/zhai)  
+[ATC'23][IC] [MSRL: Distributed Reinforcement Learning with Dataflow Fragments](https://www.usenix.org/conference/atc23/presentation/zhu-huanzhou)  
