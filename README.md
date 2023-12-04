@@ -30,6 +30,8 @@
 [ATC'22][XDU] [Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training](https://www.usenix.org/conference/atc22/presentation/he)  
 [ATC'22][ETH] [Cachew: Machine Learning Input Data Processing as a Service](https://www.usenix.org/conference/atc22/presentation/graur)  
 [ATC'23][CityU] [Accelerating Distributed MoE Training and Inference with Lina](https://www.usenix.org/conference/atc23/presentation/li-jiamin)  
+[EuroSys'23][HKUST] [Egeria: Efficient DNN Training with Knowledge-Guided Layer Freezing](https://dl.acm.org/doi/10.1145/3552326.3587451)  
+[EuroSys'23][MSRA] [SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters](https://dl.acm.org/doi/10.1145/3552326.3567499)  
 
 
 
@@ -60,6 +62,7 @@
 [ATC'17][CMU] [Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters](https://www.usenix.org/conference/atc17/technical-sessions/presentation/zhang)  
 [ATC'18][CMU] [Litz: Elastic Framework for High-Performance Distributed Machine Learning](https://www.usenix.org/conference/atc18/presentation/qiao)  
 [ATC'22][KAIST] [CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics](https://www.usenix.org/conference/atc22/presentation/hwang)  
+
 
 
 #### Fault Tolerance
