@@ -76,7 +76,9 @@
 
 
 #### Pipeline
+[NeurIPS'19][Google] [Gpipe: efficient training of giant neural networks using pipeline parallelism](https://proceedings.neurips.cc/paper_files/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html)  
 [SOSP'19][MSR] [PipeDream: generalized pipeline parallelism for DNN training](https://dl.acm.org/doi/10.1145/3341301.3359646)  
+[MLSys'21][SambaNova] [PipeMare: Asynchronous Pipeline Parallel DNN Training](https://proceedings.mlsys.org/paper_files/paper/2021/hash/9412531719be7ccf755c4ff98d0969dc-Abstract.html)  
 [OSDI'20][JHU] [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/conference/osdi20/presentation/bai)  
 [NSDI'23][UCLA] [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs](https://www.usenix.org/conference/nsdi23/presentation/thorpe)  
 [ATC'20][UNIST] [HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism](https://www.usenix.org/conference/atc20/presentation/park)  
